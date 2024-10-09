@@ -1,0 +1,41 @@
+hr {
+	color: black;
+	background-color: black;
+	border: 1px solid black;
+}
+
+input {
+	width: 99%;
+	height: 50px;
+	margin-top: 10px;
+	/* padding: 10px; */
+	border-radius: 10px;
+	border: 1px solid rgb(161, 161, 161);
+	text-align: center;
+	outline-style: none;
+	font-size: 20px;
+}
+
+/* .formContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+} */
+
+button {
+	width: 100%;
+	border-radius: 10px;
+	height: 30px;
+	border: none;
+	cursor: pointer;
+	margin-top: 20px;
+	display: none;
+}
